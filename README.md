@@ -5,3 +5,8 @@
 5. git push [rep_link(ссылка)] [branch_name(ветка)]
 
 git push origin master
+
+master
+develop - ветка разработки 
+feature/main-page - ветка страницы
+feature/about-company
